@@ -1,8 +1,8 @@
-Hej, jeg hedder Fatih
+Hej, jeg hedder Fatih Degirmenci
 
-Frontend Developer fra København.
+Frontend Developer fra København med interesse for moderne webudvikling, brugeroplevelser og digitale løsninger.
 
-## 🚀 Teknologier
+Teknologier jeg har lært : 
 
 - React
 - Next.js
@@ -13,18 +13,20 @@ Frontend Developer fra København.
 - Git
 - REST API
 
-## 📂 Projekter
+Projekter jeg har fuldført eller er igang med
 
-### 📰 Newsify
+📰 Newsify
 Nyhedsapp bygget med React.
 
-### 🦖 Pokedex
+Pokedex
 Pokédex projekt med API integration.
 
-### 🌐 Portfolio Website
+🌐 Portfolio Website
 Personlig portfolio hjemmeside.
+link til denne: https://fatih-dev-solutions.org/
 
-## 📫 Kontakt
+📫 Kontakt
+tlf: +45 4xxxxxxx
 
 linkedin profil : https://www.linkedin.com/in/fatih-degirmenci-68b677151/
 Min Email :mfatihdegirmenci@gmail.com
