@@ -1,16 +1,30 @@
-## Hi there 👋
+Hej, jeg hedder Fatih
 
-<!--
-**fatihsolutions/fatihsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer fra København.
 
-Here are some ideas to get you started:
+## 🚀 Teknologier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Next.js
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Git
+- REST API
+
+## 📂 Projekter
+
+### 📰 Newsify
+Nyhedsapp bygget med React.
+
+### 🦖 Pokedex
+Pokédex projekt med API integration.
+
+### 🌐 Portfolio Website
+Personlig portfolio hjemmeside.
+
+## 📫 Kontakt
+
+linkedin profil : https://www.linkedin.com/in/fatih-degirmenci-68b677151/
+Min Email :mfatihdegirmenci@gmail.com
